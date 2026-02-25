@@ -48,7 +48,7 @@ public class CalculatorUI {
         JButton zero = getButton("0", 50, 200);
 
         JButton equal = new JButton("=");
-        equal.setBounds(150, 150, 50, 50);
+        equal.setBounds(100, 200 , 50, 50);
 
         JButton division = new JButton("/");
         division.setBounds(150, 200, 50, 50);
